@@ -1,0 +1,11 @@
+{
+  "name": "achievements",
+  "repo": "solutionio/achievements",
+  "description": "Small evented achievement system",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "styles": [
+    "achievements.css"
+  ]
+}
